@@ -15,10 +15,10 @@ sidebar_width = "20em"
 template_page_style = {"padding_top": "5em", "padding_x": ["auto", "2em"], "flex": "1"}
 
 template_content_style = {
-    "align_items": "flex-start",
     "border_radius": border_radius,
     "padding": "1em",
     "margin_bottom": "2em",
+    "min_height": "90vh",
 }
 
 link_style = {
